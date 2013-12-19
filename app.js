@@ -54,10 +54,6 @@ request("http://www.analystratings.net/ratings/USA/12-18-2013/",function(err,res
 
    
    
-    // fs.writeFile("./data.csv",cats,function(err)
-    // {
-    // 	 if (err) return console.log(err);
-    // 	});
 
     
   }
